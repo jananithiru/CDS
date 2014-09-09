@@ -1,0 +1,749 @@
+
+INFO: stack.c : 29 : Freelist successfully initialised with 100 elements set to -1 
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+INFO: stack.c : 86 : Successfully persisted the freelist to file.
+ : Nov  5 2010 #
+INFO: stack.c : 29 : Freelist successfully initialised with 100 elements set to -1 
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+INFO: stack.c : 86 : Successfully persisted the freelist to file.
+ : Nov  5 2010 #
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 29 : Freelist successfully initialised with 100 elements set to -1 
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 29 : Freelist successfully initialised with 100 elements set to -1 
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+INFO: stack.c : 43 :  Element popped successfully 
+ : Nov  5 2010 #
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+ERROR: stack.c : 39 :  No elements to pop 
+ : Nov  5 2010 :#
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 29 : Freelist successfully initialised with 100 elements set to -1 
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 112 : Successfully populated the freelist. 
+ : Nov  5 2010 #
+INFO: stack.c : 29 : Freelist successfully initialised with 100 elements set to -1 
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 59 : Element inserted successfully into freelist
+ : Nov  5 2010 #
+INFO: stack.c : 112 : Successfully populated the freelist. 
+ : Nov  5 2010 #
+ERROR: stack.c : 98 :   No file exists. Cannot load from file.
+ : Nov  5 2010 :#

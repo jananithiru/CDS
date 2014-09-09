@@ -1,0 +1,175 @@
+#include "headers.h"
+extern FILE *logfiledesc;
+
+//=====================================================================================================
+
+void hashInit(struct hashTable *hash,int numBuckets)
+{
+    int i;
+    hash->numBuckets=MAXBUCKETS;
+    for(i=0;i<MAXBUCKETS;i++)
+       hash->buckets[i]=NULL;
+    LOG_INFO("Initialized HASH Table successfully\n");
+}
+//=====================================================================================================
+/*Use your own hash function to calculate the hask value*/
+int calcHash( char *key /* or int key; depending on the secondary index type*/)
+{    
+     int i,hashValue=0;
+     for(i=0;key[i]!='\0';i++)
+        hashValue+=key[i];
+     return hashValue % MAXBUCKETS;
+}
+//=====================================================================================================
+/*Inserting a given key in a hash table.Return 1 on success and 0 on failure*/
+int hashInsert(struct hashTable *hash, struct secondaryIndex*  data)
+{
+    int hashValue=calcHash(data->key);
+    if(llInsertSortedOrder(&(hash->buckets[hashValue]),data)==LIST_SUCCESS)
+	{
+	LOG_INFO("Inserted a node into HASH Table successfully\n");
+        return HASH_SUCCESS;
+	}
+    return HASH_FAIL;    
+}
+//=====================================================================================================
+/*Search for the node and mark as deleted by setting the flag*/
+int hashMarkDeleted(struct hashTable *hash, struct secondaryIndex*  detail)
+{
+     int hashValue=calcHash(detail->key); 
+     int retVal=llMarkDeleted(hash->buckets[hashValue],detail);
+     if(retVal==LIST_SUCCESS)
+	 {
+		LOG_INFO(" The node was marked for deletion.\n");
+                return HASH_SUCCESS;
+	 }
+	 else if(retVal==LIST_ALREADYMARKED)
+			return HASH_ALREADYMARKED;
+
+     return HASH_FAIL; 
+}
+//=====================================================================================================
+/*Deleting the keys from the hash table.Return 1 on success and 0 on failure*/
+int hashDeleteNode(struct hashTable *hash, struct secondaryIndex*  detail)
+{
+     int hashValue=calcHash(detail->key);
+     if(!llDeleteNode(&hash->buckets[hashValue],detail))
+	{
+	  LOG_INFO(" The node was deleted.\n");
+          return HASH_SUCCESS;
+	}
+     return HASH_FAIL;
+}
+//=====================================================================================================
+/*
+Searching for the key and create a new linked list containing the data maching the key.
+If nothing is found return NULL
+*/
+struct llNode*  hashSearchCollection (struct hashTable *hash,  char *key /* or int key; depending upon the secondary index type*/ )
+{
+    int hashValue=calcHash(key);
+    return llGetNode(hash->buckets[hashValue],key);
+}
+
+//=====================================================================================================
+/*
+Searching for a unique key and returns a pointer to the secondary index.
+If not found return NULL
+*/
+
+struct secondaryIndex* hashSearchUnique (struct hashTable *hash,  char *key /* or int key; depending upon the secondary index type*/, int offset )
+{
+     int hashValue=calcHash(key);
+     struct llNode *temp=hash->buckets[hashValue];
+     struct secondaryIndex *new=NULL;
+     while(temp!=NULL)
+     {
+          if(strcmp(temp->data->key,key)==0 && temp->data->offset==offset)
+          {
+              new=(struct secondaryIndex*)malloc(sizeof(struct secondaryIndex));
+              *new=*temp->data;
+		LOG_INFO ("Found the node");
+               break;
+          }
+	  temp=temp->next;
+     }
+     return new;
+}
+//=====================================================================================================
+/*
+It loads the hash table from the file on to the main memory.
+It would be called in the loadCds() function during your integration
+This gets the file pointer fp in read mode. If it finds eof at the current file
+pointer then return 0  else 1
+*/
+int hashLoadFromFile(FILE *fp, struct hashTable *hash )
+{
+      struct secondaryIndex *temp;
+      int flag=0;
+ 	if(fp==NULL)
+		{
+			LOG_ERROR("  No file exists. Cannot load from file.\n");
+    			return HASH_FAIL;
+		}
+    temp=(struct secondaryIndex*)malloc(sizeof(struct secondaryIndex));
+      while(fread(temp,sizeof(struct secondaryIndex),1,fp))
+      {
+          hashInsert(hash,temp);
+          flag=1;
+      }
+      if(flag==0)
+         return HASH_EMPTY;
+	LOG_INFO("Loaded the hash table from the file");
+      return HASH_SUCCESS;
+}
+           
+               
+//===================================================================================================== 
+/*
+Persist the hash table to the file after making all the changes.
+The file pointer which is passed is in write mode. (In cds integration
+the call to this function is done after persistStack function with the same fp).
+*/
+int hashPersist(FILE *fp,  struct hashTable *hash )
+{
+      int i=-1; 
+      //if(!hash)
+        //return HASH_EMPTY;
+      while(++i < hash->numBuckets)
+      {
+	if(hash->buckets[i]!=NULL)          
+		llPersist(hash->buckets[i],fp);
+      }
+      LOG_INFO("Successfully persisted the hash table\n");
+      return HASH_SUCCESS;
+}
+//=====================================================================================================
+int displayHash(struct hashTable *hash)
+{
+      int i=-1; 
+      
+      if(!hash)
+        return HASH_EMPTY;
+
+      while(++i < hash->numBuckets)
+      {
+	if(hash->buckets[i]!=NULL)          
+		lldisplay(hash->buckets[i]);
+      }
+      return HASH_SUCCESS;
+}
+
+//=====================================================================================================
+void freeHash(struct hashTable *hash)
+{
+      int i=-1; 
+      
+      if(!hash)
+        return;
+
+      while(++i < hash->numBuckets)
+      {
+		if(hash->buckets[i]!=NULL)          
+		freeList(hash->buckets[i]);
+      }
+}

@@ -1,0 +1,99 @@
+#include "headers.h"
+
+extern struct colDataStore cdsInfo;
+extern FILE *logfiledesc;
+//#include"cds_addUniqueRecord.h"
+
+int cds_addUniqueRecord(struct dataRecord *record)
+{
+	int offset;
+	int failure=0; //flag variable to check in case of failure
+
+    printf("Adding Record...\n");
+    
+   // cds_printRecord(record);
+
+    	if(cdsInfo.state != CDS_OPEN_RW || cdsInfo.state==CDS_CLOSED )
+		return  ADDKEY_FAIL; 
+		printf("Hi");
+		int i;
+		
+	//Checking whether or not any primary key is null
+	
+	if(strcmp(record->values[0],NULLKEY_STRING)==0)
+		{
+			LOG_ERROR(" Cannot insert a NULL key. Didn't add record\n");
+			return ADDKEY_FAIL;
+		}
+		
+	
+	if(stackPop(cdsInfo.freelist,&offset)==STACK_FAIL)
+	{
+		//Offset is now end-of-file
+		//this can be found out by seeking any one of the dat files 		
+		fseek(cdsInfo.fileregister[0].fptr,0L,SEEK_END);
+		int size_of_file=ftell(cdsInfo.fileregister[0].fptr);
+		offset=size_of_file/cdsInfo.fileregister[0].length;
+		LOG_INFO("Calculated offset to insert new record\n");
+	}
+
+	LOG_INFO("Trying to insert data at offset obtained \n");
+
+
+	//Creating data for bstNode	
+	struct primaryIndex *primaryData=(struct primaryIndex*)malloc(sizeof(struct primaryIndex));
+	strcpy(primaryData->key,record->values[0]);
+	
+	primaryData->offset=offset;
+	primaryData->flag='0';
+	strcat(record->values[0],"\0");
+
+	//========================================================================================
+	//Insert into bst
+	if(bstInsertNode(&cdsInfo.primaryNdx,primaryData)!=BST_SUCCESS)
+	{
+		LOG_ERROR("Did NOT insert into BST. Returning offset to freelist\n");
+		if(stackPush(cdsInfo.freelist,offset)==STACK_SUCCESS)
+		{
+			LOG_INFO("Did NOT return free offset to freelist\n");
+			return ADDKEY_FAIL;
+		}
+		LOG_INFO("Returned free offset to freelist\n");
+	}
+	else{
+		LOG_INFO("Added Node in BST\n");
+		//creating data for hashNode
+		struct secondaryIndex *secondaryData
+				=(struct secondaryIndex*)malloc(sizeof(struct secondaryIndex));
+		strcpy(secondaryData->key,record->values[1]);
+		secondaryData->offset=offset;
+		secondaryData->flag='0';
+		
+		//Insert into hashtable
+		if(hashInsert(cdsInfo.secondaryNdx,secondaryData)==HASH_SUCCESS)
+		{
+			int i;
+			for(i=0;i<cdsInfo.numCols;i++)
+			writeString(cdsInfo.fileregister[i].fptr,
+				cdsInfo.fileregister[i].length*offset,
+				record->values[i],
+				cdsInfo.fileregister[i].length);
+			LOG_INFO("Wrote data in all .dat files\n");
+			// TEST CONDITION HERE!! what if it didnt write successfully
+		}
+		else
+		{
+			//Revert Changes for BST if HASH failed???????????
+			LOG_ERROR("Did NOT insert into Hash Table. Returning offset to freelist\n");
+			if(stackPush(cdsInfo.freelist,offset)==STACK_SUCCESS)
+			{
+				LOG_INFO("Did NOT return free offset to freelist\n");
+				return ADDKEY_FAIL;
+			}
+			LOG_INFO("Returned free offset to freelist\n");
+		}
+	}
+	return ADDKEY_SUCCESS;
+}
+
+//=============================================================================================================

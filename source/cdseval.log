@@ -1,0 +1,897 @@
+cds_eval.c: LOG STARTED AT  Sat Nov 20 02:31:53 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database created -  FlightInfo
+cds_eval.c: ++++++++++ SUCCESS: Database open -  FlightInfo
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  Rama
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  FlightInfo
+cds_eval.c: LOG STARTED AT  Sat Nov 20 02:35:39 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database created -  FlightInfo
+cds_eval.c: ++++++++++ SUCCESS: Database open -  FlightInfo
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  FlightInfo
+cds_eval.c: LOG STARTED AT  Sat Nov 20 02:54:26 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database open -  FlightInfo
+cds_eval.c: ---------- FAILURE: Unable to print database -  FlightInfo
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  FlightInfo
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  FlightInfo
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  FlightInfo
+cds_eval.c: LOG STARTED AT  Sat Nov 20 03:05:06 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database open -  FlightInfo
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  FlightInfo
+cds_eval.c: LOG STARTED AT  Sat Nov 20 03:07:14 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database open -  FlightInfo
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  FlightInfo
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  FlightInfo
+cds_eval.c: LOG STARTED AT  Sat Nov 20 03:26:42 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  10
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 03:44:00 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  abc
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 03:45:58 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  123
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 04:08:05 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  111
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 04:23:24 2010
+
+cds_eval.c: ---------- FAILURE: Unable to print database -  
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 04:23:55 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 04:32:11 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  111
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  222
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 04:43:16 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  111
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  222
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  333
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  444
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  555
+cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  555
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  555
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  111
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ---------- FAILURE: Unable to select record with key -  DDD
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+
+cds_eval.c: LOG STARTED AT  Sat Nov 20 04:56:14 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database created -  z
+cds_eval.c: ++++++++++ SUCCESS: Database open -  z
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  abc
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  222
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  z
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  z
+cds_eval.c: LOG STARTED AT  Sat Nov 20 05:00:02 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ---------- FAILURE: Unable to print database -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  111
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  222
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  333
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 05:05:23 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  111
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  777
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  888
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  222
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  333
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  444
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  555
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  666
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  777
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  777
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  888
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  777
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  444
+cds_eval.c: ---------- FAILURE: Unable to select by column name -  FlightNo
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 11:45:30 2010
+
+cds_eval.c: ---------- FAILURE: Unable to open database -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 11:46:20 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  1
+cds_eval.c: ---------- FAILURE: Unable to select record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  AAA
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  BBB
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  AAA
+cds_eval.c: ---------- FAILURE: Unable to select record with key -  4
+cds_eval.c: ---------- FAILURE: Unable to open database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  3
+cds_eval.c: ---------- FAILURE: Unable to select by column name -  FlightNo
+cds_eval.c: ---------- FAILURE: Unable to select by column name -  FlightName
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 11:52:32 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 11:59:42 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ---------- FAILURE: Unable to select by column name -  FlightNo
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 12:39:28 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  FlightName
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 12:42:06 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  FlightName
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  1
+cds_eval.c: ---------- FAILURE: Unable to select by column name -  AAA
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  FlightName
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  FlightName
+cds_eval.c: ---------- FAILURE: Unable to select record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  AAA
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 14:40:05 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  111
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  222
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  333
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  9
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 14:46:38 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  9
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ---------- FAILURE: Unable to select record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  111
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  222
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  BBB
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  FlightType
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  FlightNo
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  FlightType
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: LOG STARTED AT  Sat Nov 20 14:49:49 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database created -  BOH
+cds_eval.c: ++++++++++ SUCCESS: Database open -  BOH
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  aaa
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  bbb
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  ccc
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  BOH
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  aaa
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  bbb
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  BOH
+cds_eval.c: LOG STARTED AT  Sat Nov 20 14:55:36 2010
+
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  janani
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  111
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  ajfdhakj
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  ajfdhakj
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  car
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  car
+cds_eval.c: ++++++++++ SUCCESS: Database created -  car
+cds_eval.c: ++++++++++ SUCCESS: Database open -  car
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  car
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  car
+cds_eval.c: ++++++++++ SUCCESS: Database open -  car
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  car
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  car
+cds_eval.c: ++++++++++ SUCCESS: Database open -  car
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  car
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  car
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  C
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  A
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  C
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  0
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ---------- FAILURE: Unable to select by column name -  4
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to open database -  f
+cds_eval.c: ---------- FAILURE: Unable to open database -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to open database -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to open database -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  
+cds_eval.c: ---------- FAILURE: Unable to unload database -  
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ---------- FAILURE: Unable to open database -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  IJ
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  1
+cds_eval.c: ---------- FAILURE: Unable to print database -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  AAAAAAAA
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ---------- FAILURE: Unable to print database -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  AAAAAA
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  AAAAAAAA
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  HHHHHHHHHHHHHHHHHHHLLLLLLDS
+cds_eval.c: ---------- FAILURE: Unable to unload database -  
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  IJ
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  10
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  10
+cds_eval.c: ---------- FAILURE: Unable to create database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to create database -  s
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ---------- FAILURE: Unable to create database -  s
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  s
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  s
+cds_eval.c: ---------- FAILURE: Unable to unload database -  s
+cds_eval.c: ---------- FAILURE: Unable to open database -  g
+cds_eval.c: ++++++++++ SUCCESS: Database open -  s
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  s
+cds_eval.c: ---------- FAILURE: Unable to create database -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ---------- FAILURE: Unable to create database -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ---------- FAILURE: Unable to create database -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to create database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  c
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  6
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  c
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  6
+cds_eval.c: ---------- FAILURE: Unable to select record with key -  6
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  c
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ---------- FAILURE: Unable to modify record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ---------- FAILURE: Unable to print database -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  A
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  111
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  111
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  111
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  B
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  EFG
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with column filter on -  IJ
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ---------- FAILURE: Unable to modify record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ---------- FAILURE: Unable to modify record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  A
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  A
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  A
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ---------- FAILURE: Unable to print database -  
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  A
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  C
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  B
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  C
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  C
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ---------- FAILURE: Unable to modify record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  5
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ---------- FAILURE: Unable to modify record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ---------- FAILURE: Unable to modify record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ---------- FAILURE: Unable to modify record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  1
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ---------- FAILURE: Unable to print database -  
+cds_eval.c: ---------- FAILURE: Unable to unload database -  
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ---------- FAILURE: Unable to modify record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  K
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  5
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  6
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  a
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  a
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  b
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  c
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  e
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ---------- FAILURE: Unable to modify record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  7
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ---------- FAILURE: Unable to delete record with key -  5
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ---------- FAILURE: Unable to delete record with key -  6
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ---------- FAILURE: Unable to delete record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  5
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  5
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  7
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  9
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  7
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  9
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ---------- FAILURE: Unable to create database -  4
+cds_eval.c: ---------- FAILURE: Unable to unload database -  4
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  1
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  
+cds_eval.c: ---------- FAILURE: Unable to create database -  4
+cds_eval.c: ---------- FAILURE: Unable to create database -  111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+cds_eval.c: ---------- FAILURE: Unable to unload database -  111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  A
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  A
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  1
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  2
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  3
+cds_eval.c: ---------- FAILURE: Unable to print database -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  B
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  A
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ---------- FAILURE: Unable to unload database -  
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  A
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  1
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Modified record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  B
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  a
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  a
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  a
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  a
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  a
+cds_eval.c: ---------- FAILURE: Unable to add record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  6
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  c
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  c
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  4
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ---------- FAILURE: Unable to create database -  w
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  w
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Selected and printed records with secondary key -  a
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database created -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  2
+cds_eval.c: ++++++++++ SUCCESS: Added record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  1
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
+cds_eval.c: ++++++++++ SUCCESS: Database open -  f
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Deleted record with key -  3
+cds_eval.c: ++++++++++ SUCCESS: Database printed -  f
+cds_eval.c: ++++++++++ SUCCESS: Database unloaded -  f
